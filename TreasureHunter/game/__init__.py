@@ -1,0 +1,3 @@
+"""
+Treasure Hunter Game Package
+"""
